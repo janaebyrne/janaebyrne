@@ -11,8 +11,8 @@ I'm a former Modern Languages graduate from the UK who has transitioned into the
 - **Programming Languages**: C (primary focus)
 - **Core Concepts**: Memory management, data structures, algorithms, system calls, pointers, and multithreading.
 - **Tools & Utilities**: GCC, GDB, Valgrind, Makefile.
-- **Operating Systems**: Linux (primary), Windows.
-- **Development Areas**: Systems programming, embedded systems, networking, file I/O.
+- **Operating Systems**: Linux & MacOS
+- **Development Areas**: Systems programming, networking, C++
 
 ---
 
