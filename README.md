@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a former Modern Languages graduate from the UK who has transitioned into the exciting world of coding. With years of experience in operations, where I had to work closely with data, I have always had a passion for working with numbers and solving complex problems. This passion has naturally evolved into a focus on programming, where I enjoy creating efficient, logical, and scalable solutions. Currently, I specialize in C programming, exploring everything from system-level development to algorithms and data structures. My goal is to merge my analytical skills with my technical expertise to build impactful and innovative projects.
+I'm a former Modern Languages graduate from the UK who has transitioned into the exciting world of coding. With years of experience in operations, where I had to work closely with data, I have always had a passion for working with numbers and solving complex problems. This passion has naturally evolved into a focus on programming, where I enjoy creating efficient, logical, and scalable solutions. Currently, I specialize in C programming, which I am studying at 42 Berlin. My goal is to merge my analytical skills with my technical expertise to build impactful and innovative projects.
 
 ---
 
