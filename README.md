@@ -26,8 +26,7 @@ Challenges: Error handling, parsing quotes in input, storing and displaying comm
 
 ## 🔗 Let's Connect
 
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Janae Byrne ](https://linkedin.com/in/janae-byrne)
 
 ---
 
